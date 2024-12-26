@@ -10,7 +10,7 @@ This repository implements **Physics-Informed Neural Networks (PINNs)** to solve
 - **Visualization**: Generates contour plots to visualize shock wave propagation over time.
 
 ## Citation
-Samaniego, E., Anitescu, C., Goswami, S., et al. (2020). "An energy approach to the solution of partial differential equations in computational mechanics via machine learning: Concepts, implementation and applications." *Computer Methods in Applied Mechanics and Engineering*, 362.
+[1] Samaniego, E., Anitescu, C., Goswami, S., et al. (2020). "An energy approach to the solution of partial differential equations in computational mechanics via machine learning: Concepts, implementation and applications." *Computer Methods in Applied Mechanics and Engineering*, 362.
 
 ## Requirements
 - Python 3.x
