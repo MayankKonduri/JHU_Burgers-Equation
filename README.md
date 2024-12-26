@@ -21,4 +21,4 @@ This repository implements **Physics-Informed Neural Networks (PINNs)** to solve
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Burgers-PINNs.git
+   git clone https://github.com/yourusername/JHU_Burgers-Equation.git
